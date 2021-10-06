@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vikas Sharma	vikas@email.com    vsharma
 
 # THANKS
 
