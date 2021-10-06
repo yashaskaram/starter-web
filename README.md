@@ -13,4 +13,4 @@
 ## How To Contribute
 
 ### Copyright
-	2021 Test Copyright 2.
+	2021 Test Copyright 3.
