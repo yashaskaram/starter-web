@@ -14,4 +14,4 @@
 	Please fork this repository and then issue pull request for review.
 
 ### Copyright
-	2021 Test Copyright 3.
+	2021 Vikas Sharma. All rights reserved.
